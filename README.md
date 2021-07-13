@@ -6,11 +6,11 @@
 <a href="#"><img title="sunnymol" src="https://img.shields.io/badge/sunnymol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nfa-mayavi"><img title="Author" src="https://img.shields.io/badge/Author-nfa-mayavi/sunnymol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nfamayavi"><img title="Author" src="https://img.shields.io/badge/Author-nfamayavi/sunnymol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nfa-mayavi">nfa-mayavi</a> to make it public
+Project created by <a href="https://github.com/nfamayavi">nfamayavi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -20,13 +20,13 @@ Project created by <a href="https://github.com/nfa-mayavi">nfa-mayavi</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nfa-mayavi/sunnymol">
+  <a href="httsp://github.com/nfamayavi/sunnymol">
     <img src="https://img.shields.io/github/repo-size/nfamayavi/sunnymol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nfamayavi/followers"><img title="Followers" src="https://img.shields.io/github/followers/nfa-mayavi?color=blue&style=flat-square"></a>
-<a href="https://github.com/nfa-mayavi/sunnymol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nfa-mayavi/sunnymol?color=blue&style=flat-square"></a>
-<a href="https://github.com/nfa-mayavi/sunnymol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nfa-mayavi/sunnymol?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nfa-mayavi/sunnymol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nfamayavi/followers"><img title="Followers" src="https://img.shields.io/github/followers/nfamayavi?color=blue&style=flat-square"></a>
+<a href="https://github.com/nfa-mayavi/sunnymol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nfamayavi/sunnymol?color=blue&style=flat-square"></a>
+<a href="https://github.com/nfamayavi/sunnymol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nfamayavi/sunnymol?color=blue&style=flat-square"></a>
+<a href="https://github.com/nfamayavi/sunnymol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nfamayavi/sunnymol?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -37,7 +37,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nfa-mayavi&repo=PublicBot&theme=nightowl)](https://github.com/nfa-mayavi
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nfamayavi&repo=PublicBot&theme=nightowl)](https://github.com/nfamayavi
 /publicBot)
   </div>
     
@@ -48,7 +48,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nfa-mayavi/sunnymol.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nfamayavi/sunnymol.git)
      </div>
 <br>
 <br >
@@ -63,7 +63,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/nfa-mayavi/sunnymol
+$ git clone https://github.com/nfamayavi/sunnymol
 $ cd sunnymol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -73,7 +73,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/nfa-mayavi/sunnymol
+$ git clone https://github.com/nfamayavi/sunnymol
 $ cd sunnymol
 $ chmod +x *
 $ npm i
@@ -94,7 +94,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![nfamayavi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/nfamayavi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![nfamayavi](https://github.com/sunnymol-407x400.png?size=100)](https://github.com/nfamayavi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
